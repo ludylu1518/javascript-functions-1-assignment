@@ -3,3 +3,6 @@
 //After you're done, try looking around at the CSS and HTML to 
 //see if you understand what's going on :)
 
+function numberAdder(a, b) {
+    return a + b;
+}
